@@ -47,3 +47,9 @@ Il file [Test Chiamate Funzioni.sql](Implementazione/Test%20Chiamate%20Funzioni.
 ## Autori
 
 Progetto realizzato dal gruppo **Devine, Grassi e Meini**.
+
+## Note sul progetto
+
+Il progetto è stato sviluppato e testato nell’ambito del corso di Basi di dati, A.A. 2020–2021.
+
+Tutti i dati presenti negli script di popolamento sono fittizi e utilizzati esclusivamente a scopo didattico.
